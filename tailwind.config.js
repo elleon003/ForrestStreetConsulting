@@ -8,8 +8,8 @@ module.exports = {
     fontFamily: {
       'sans': ['Arial', 'ui-sans-serif', 'system-ui'],
       'body': ['Arial', 'ui-sans-serif', 'system-ui'],
-      'header': ['Romedance'],
-      'display': ['Loves']
+      'display': ['Romedance'],
+      'header': ['Loves']
     },
     colors: {
       green: {
